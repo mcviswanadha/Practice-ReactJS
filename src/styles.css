@@ -1,12 +1,24 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
-}
-
 .HooksUseState {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   max-width: 300px;
+}
+
+.app {
+  padding: 30px;
+  background-color: aquamarine;
+  font-family: sans-seri;
+}
+
+.submit {
+  margin-top: 10px;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
 }
